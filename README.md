@@ -5,15 +5,6 @@
 
 ## 🎥 Demo Video
 https://github.com/user-attachments/assets/26d9063e-09bb-4545-824f-bb3761854f91
-
-## 🏠 Home Page Screenshot
-![Home Page](https://github.com/Saurabh-git-hub/chat-with-website/blob/main/Image%20Chat%20With%20Website/Step%201%20Home%20page.png)  
-*A glimpse of the landing page of Chat With Website.*
-
-
-
-
-
 ---
 
 ## 📁 Project Structure
