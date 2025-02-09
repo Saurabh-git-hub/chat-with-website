@@ -4,8 +4,10 @@
 *A full-stack web application for seamless communication with any website.*
 
 ## 🎥 Demo Video
-https://github.com/user-attachments/assets/26d9063e-09bb-4545-824f-bb3761854f91
----
+
+https://github.com/user-attachments/assets/5d7074dd-2bf4-4f70-a78d-0d03c5d09cbb
+
+-
 
 ## 📁 Project Structure
 ```
